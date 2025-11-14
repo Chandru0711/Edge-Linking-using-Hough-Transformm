@@ -1,5 +1,5 @@
 # EXP 07 : Edge-Linking-using-Hough-Transformm
-### NAME : CHANDRU SM
+### NAME : CHANDRU SM 
 ### REGISTER NO : 212223230034
 ## Aim:
 To write a Python program to detect the lines using Hough Transform.
